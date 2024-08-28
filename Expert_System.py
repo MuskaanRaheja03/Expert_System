@@ -1,7 +1,3 @@
-#Name- Muskaan Raheja
-#Student id- 101284985
-
-
 print("1. James Bond Films")
 print("2. Super Hero Films")
 genre = int(input("Choose the subgenre (1 or 2):"))
