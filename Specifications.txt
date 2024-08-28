@@ -1,0 +1,22 @@
+The term "expert system" can refer to a computer program that is capable of decision making and can
+be used for diagnostics and classification. Furthermore, since the underlying knowledge used by the
+system is typically provided by a human expert, a rudimentary expert system is a relatively simple
+project. For this assignment, you will practice with branching control structures by creating your own
+expert system that uses user input to "guess" film titles. Please note that, if your submission cannot
+identify the movie in 7 guesses or less, then your questions are poorly constructed and will be penalized.
+As a clarifying example, the partial transcript such an expert system might follow for the subgenre of
+"Animated Christmas Special" could be as follows (with user input in red):
+Was the film based on a story by Dr. Seuss? no
+Does the film use stop-motion animation? yes
+"Rudolph the Red-Nosed Reindeer (1964)" is the film title.
+In order to complete this task, you will need to:
+• choose two movie "subgenres" from http://www.filmsite.org/subgenres2.html1
+• choose at least ten movies for each of your two subgenres (i.e., at least twenty movies total)
+• devise a set of "yes-or-no" questions to identify movies (without directly referencing titles)2
+• create a flowchart of what questions you intend to ask and in what order3
+Your submission for this assignment:
+• must first ask the user if they require instructions (and provide some if the answer is "yes")
+• must then ask the user which of the two subgenre expert systems they would like to consult
+• must then ask the user "yes-or-no" questions (without asking questions unneccessarily)
+• must include (as comments) a list of distinguishing elements for each of your selected movies4
+• can assume that the user will always enter valid input when prompted
